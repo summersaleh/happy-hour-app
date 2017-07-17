@@ -1,4 +1,4 @@
-# happy-hour-app
+# Happy Hour App
 
 Goal: To help users easily find a quality happy hour.
 
